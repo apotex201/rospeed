@@ -191,7 +191,7 @@ class Discord:
         self.pingYN = ping 
         
         if self.pingYN == True:
-            dping = "@everyone"
+            dping = "NEW GROUPPPPPPPPPPPPPP"
         else:
             dping = ""
             
