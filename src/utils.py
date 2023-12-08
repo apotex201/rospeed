@@ -191,13 +191,13 @@ class Discord:
         self.pingYN = ping 
         
         if self.pingYN == True:
-            dping = "@everyone"
+            dping = "@everyone NEWW GROUPPP"
         else:
             dping = ""
             
         self.webhook = DiscordWebhook(
             url=webhookUrl,
-            username="RoSpeed v2.5",
+            username="APO GROUP v2.5",
             content=dping,
             rate_limit_retry=True
             )
